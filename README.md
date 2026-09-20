@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Systems%20Builder%20%7C%20Local%20AI%20%7C%20Privacy&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Systems%20Builder%20%7C%20Tinkerer&descAlignY=51&descAlign=62" />
 </div>
 
 ### ⚡ Systems Builder & IT Student
