@@ -17,9 +17,9 @@ I'm an IT student and systems tinkerer who learns by vibe coding, breaking thing
   *Read-only network security auditor.*
   A Python desktop app built to safely scan local networks for exposed infrastructure and generate executive PDF reports. Powered by Scapy, CustomTkinter, and ReportLab.
 
-* **[Sylb](#)** 
+* **[Sylb](https://sylb-pn4.pages.dev)** 
   *Daily syllable puzzle game*
-  A fast-paced syllable building game. I built this specifically to figure out web-to-mobile packaging, wrapping a React and Firebase web app into a native Android application.
+  A fast-paced syllable building game. I built this specifically to figure out web-to-mobile packaging, wrapping a React and Firebase web app into a native Android application. Currently in play testing soon to launch.
 
 * **[Project Marceline](https://helloterminalio.com/marceline)**
   *Air-gapped, local-inference AI assistant.*
@@ -40,3 +40,11 @@ I'm an IT student and systems tinkerer who learns by vibe coding, breaking thing
 *   **Languages:** Python, JavaScript, Bash, SQL
 *   **AI & Data:** FastAPI, ChromaDB, Unsloth, MCP (Model Context Protocol)
 *   **Ops & Systems:** Linux, VirtualBox, Cloudflare
+
+---
+
+<div align="center">
+  <a href="https://buymeacoffee.com/danielharder" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+  </a>
+</div>
