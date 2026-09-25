@@ -13,7 +13,7 @@ I'm an IT student and systems tinkerer who learns by vibe coding, breaking thing
   *Open-source AI infrastructure bridge.*
   A Model Context Protocol (MCP) server that gives AI assistants direct execution access to local VirtualBox environments. Allows local AI agents to spin up VMs, manage safety snapshots, and run guest OS commands.
 
-* **[NetBaseline](#)**
+* **[NetBaseline](<script src="https://gist.github.com/danielharderpi-png/a195e8947b019ddc422452ae91752794.js"></script>)**
   *Read-only network security auditor.*
   A Python desktop app built to safely scan local networks for exposed infrastructure and generate executive PDF reports. Powered by Scapy, CustomTkinter, and ReportLab.
 
