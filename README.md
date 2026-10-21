@@ -1,46 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Systems%20Builder%20%7C%20IT%20Student&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Systems%20Developer%20%7C%20IT%20Professional&descAlignY=51&descAlign=62" />
 </div>
 
-### ⚡ About Me
-I'm an IT student and systems tinkerer who learns by vibe coding, breaking things, and building lightweight, local first tools that solve actual problems. I focus on air-gapped AI and bridging infrastructure gaps, and I'm actively looking for real world opportunities to prove what I can do.
+### ❖ About Me
+I'm a systems developer and IT professional who learns by vibe coding, breaking things, and building lightweight tools that solve actual problems. I just finished my A.A. in Information Technology with a 3.93 GPA and I'm currently looking for a full-time role in IT Operations. Right now, my work is focused on local AI pipelines, automation, and deploying SaaS platforms like MV Civic Data. 
 
 ---
 
-### 🚀 Active Projects & Tools
+### ❖ Active Projects & Tools
 
-* **[mcp-virtualbox](https://github.com/danielharderpi-png/mcp-virtualbox)**
+- **[MV Civic Data](https://mvcivicdata.com)**
+  *Automated B2B municipal intelligence SaaS.*
+  A production platform tracking zoning and development data across the Miami Valley. Built with automated Bash scripts, cron scheduling, Python Playwright scrapers, Gemini API structured extraction, and Firebase Cloud Firestore.
+
+- **[mcp-virtualbox](https://github.com/danielharderpi-png/mcp-virtualbox)**
   *Open-source AI infrastructure bridge.*
-  A Model Context Protocol (MCP) server that gives AI assistants direct execution access to local VirtualBox environments. Allows local AI agents to spin up VMs, manage safety snapshots, and run guest OS commands.
-[![M8ven Score](https://m8ven.ai/badge/mcp/danielharderpi-png-mcp-virtualbox-d44dck)](https://m8ven.ai/mcp/danielharderpi-png-mcp-virtualbox-d44dck)
+  A Model Context Protocol (MCP) server that grants AI assistants direct execution access to local VirtualBox environments for managing VMs and running guest OS commands.<br>[![M8ven Score](https://m8ven.ai/badge/mcp/danielharderpi-png-mcp-virtualbox-d44dck)](https://m8ven.ai/mcp/danielharderpi-png-mcp-virtualbox-d44dck) • [**View on Agensi**](https://www.agensi.io/skills/mcp-virtualbox)
 
-* **[NetBaseline](https://gist.github.com/danielharderpi-png/a195e8947b019ddc422452ae91752794)**
+- **[NetBaseline](https://gist.github.com/danielharderpi-png/a195e8947b019ddc422452ae91752794)**
   *Read-only network security auditor.*
-  A Python desktop app built to safely scan local networks for exposed infrastructure and generate executive PDF reports. Powered by Scapy, CustomTkinter, and ReportLab.
+  A Python desktop app safely scanning local networks for exposed infrastructure and generating executive PDF reports. Powered by Scapy and CustomTkinter.
 
-* **[Sylb](https://sylb-pn4.pages.dev)** 
-  *Daily syllable puzzle game*
-  A fast-paced syllable building game. I built this specifically to figure out web-to-mobile packaging, wrapping a React and Firebase web app into a native Android application. Currently in play testing soon to launch.
+- **[Sylb](https://sylb-pn4.pages.dev)** 
+  *Daily syllable puzzle game.*
+  A fast-paced web app built with React and Firebase, packaged as a native Android application to bridge web-to-mobile development. 
 
-* **[Project Marceline](https://helloterminalio.com/marceline)**
+- **[Project Marceline](https://helloterminalio.com/marceline)**
   *Air-gapped, local-inference AI assistant.*
-  Built with **Meta Llama 3.2**, **Unsloth**, and **ChromaDB** vector retrieval behind a **FastAPI** core. Designed for complete offline operation and privacy.
+  Engineered for complete offline operation and privacy. Built with Meta Llama 3.2, Unsloth, and ChromaDB vector retrieval behind a FastAPI core.
 
-* **[VanishPoint](https://helloterminalio.com/vanishpoint)** 
+- **[VanishPoint](https://helloterminalio.com/vanishpoint)** 
   *Custom browser privacy extension.*
-  Engineered to kill persistent tracking scripts, isolate background telemetry, and reduce general browser bloat. 
+  Engineered to kill persistent tracking scripts, enforce Global Privacy Control, isolate telemetry, and reduce browser bloat. 
 
 ---
 
-### 💻 Stack & Environment
+### ❖ Stack & Environment
 
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,bash,linux,ubuntu,git,cloudflare,html,css&perline=15" alt="Tech Stack Icons" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,bash,linux,ubuntu,git,cloudflare,firebase,html,css&perline=15" alt="Tech Stack Icons" /></a>
 </p>
 
-*   **Languages:** Python, JavaScript, Bash, SQL
-*   **AI & Data:** FastAPI, ChromaDB, Unsloth, MCP (Model Context Protocol)
-*   **Ops & Systems:** Linux, VirtualBox, Cloudflare
+*   **Languages:** Python, JavaScript, Bash, SQL, HTML/CSS
+*   **AI & Data:** Gemini API, Meta Llama 3.2, FastAPI, ChromaDB, MCP
+*   **Ops & Cloud:** Linux (Ubuntu Server), VirtualBox, Cloudflare Tunnels, Firebase, Stripe API
 
 ---
 
