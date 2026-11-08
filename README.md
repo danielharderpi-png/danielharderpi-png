@@ -3,7 +3,12 @@
 </div>
 
 ### ❖ About Me
-I'm a systems developer and IT professional who learns by vibe coding, breaking things, and building lightweight tools that solve actual problems. I just finished my A.A. in Information Technology with a 3.93 GPA and I'm currently looking for a full-time role in IT Operations. Right now, my work is focused on local AI pipelines, automation, and deploying SaaS platforms like MV Civic Data. 
+
+I'm an independent systems developer building data pipelines, automations, and web applications. Most of my work runs out of Google Antigravity, using autonomous agents and MCP tooling to direct builds, test suites, and refactors while I focus on architecture and keeping pipelines lean.
+
+Currently running and maintaining [MV Civic Data](https://mvcivicdata.com), an automated B2B municipal platform using Python Playwright scrapers, Gemini API document extraction, Firebase, and Cloudflare. 
+
+Open to contract builds, pipeline optimization, and technical collaboration.
 
 ---
 
@@ -41,9 +46,9 @@ I'm a systems developer and IT professional who learns by vibe coding, breaking 
   <a href="#"><img src="https://skillicons.dev/icons?i=python,js,bash,linux,ubuntu,git,cloudflare,firebase,html,css&perline=15" alt="Tech Stack Icons" /></a>
 </p>
 
-*   **Languages:** Python, JavaScript, Bash, SQL, HTML/CSS
-*   **AI & Data:** Gemini API, Meta Llama 3.2, FastAPI, ChromaDB, MCP
-*   **Ops & Cloud:** Linux (Ubuntu Server), VirtualBox, Cloudflare Tunnels, Firebase, Stripe API
+- **Languages:** Python, JavaScript, Bash, SQL, HTML/CSS
+- **Tools & Dev:** Google Antigravity, MCP, Gemini API, Meta Llama 3.2, FastAPI, ChromaDB
+- **Ops & Cloud:** Linux (Ubuntu Server), VirtualBox, Cloudflare, Firebase, Stripe API
 
 ---
 
