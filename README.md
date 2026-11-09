@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Systems%20Developer%20%7C%20IT%20Professional&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Engineer%20%7C%20IT%20Guy&descAlignY=51&descAlign=62" />
 </div>
 
 ### ❖ About Me
