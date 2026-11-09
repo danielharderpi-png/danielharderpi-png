@@ -22,7 +22,7 @@ Open to contract builds, pipeline optimization, and technical collaboration.
   *Open-source AI infrastructure bridge.*
   A Model Context Protocol (MCP) server that grants AI assistants direct execution access to local VirtualBox environments for managing VMs and running guest OS commands.<br>[![M8ven Score](https://m8ven.ai/badge/mcp/danielharderpi-png-mcp-virtualbox-d44dck)](https://m8ven.ai/mcp/danielharderpi-png-mcp-virtualbox-d44dck) • [**View on Agensi**](https://www.agensi.io/skills/mcp-virtualbox)
 
-- **[NetBaseline](https://gist.github.com/danielharderpi-png/a195e8947b019ddc422452ae91752794)**
+- **[NetBaseline](https://github.com/danielharderpi-png/NetBaseline)**
   *Read-only network security auditor.*
   A Python desktop app safely scanning local networks for exposed infrastructure and generating executive PDF reports. Powered by Scapy and CustomTkinter.
 
