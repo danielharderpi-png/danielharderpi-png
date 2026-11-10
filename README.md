@@ -1,10 +1,10 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Engineer%20%7C%20IT%20Guy&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Systems%20Developer%20%7C%20Infrastructure%20Automation&descAlignY=51&descAlign=50" />
 </div>
 
 ## ❖ About Me
 
-I'm an independent systems developer building data pipelines, automations, and web applications. Most of my work happens in Google Antigravity, where I use autonomous agents and MCP tooling to move builds, test suites, and refactors forward. I focus on architecture, integration, and keeping the systems lean.
+Systems developer focused on lean data pipelines, network auditing tools, and infrastructure automation. I specialize in Python, Linux environments, and systems integration with a focus on minimal latency and low runtime overhead.
 
 Currently running and maintaining [MV Civic Data](https://mvcivicdata.com), an automated B2B municipal intelligence platform built with Python Playwright scrapers, Gemini API document extraction, Firebase, and Cloudflare.
 
@@ -61,11 +61,3 @@ Open to contract builds, pipeline optimization, and technical collaboration.
 - **Languages:** Python, JavaScript, Bash, SQL, HTML/CSS
 - **Tools & Development:** Google Antigravity, MCP, Gemini API, Meta Llama 3.2, FastAPI, ChromaDB
 - **Infrastructure & Cloud:** Linux (Ubuntu Server), VirtualBox, Cloudflare, Firebase, Stripe API
-
----
-
-<div align="center">
-  <a href="https://buymeacoffee.com/danielharder">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="24" />
-  </a>
-</div>
