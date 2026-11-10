@@ -17,7 +17,6 @@ Open to contract builds, pipeline optimization, and technical collaboration.
 - **[MV Civic Data](https://mvcivicdata.com)** · *Municipal intelligence SaaS.* A production platform tracking zoning and development activity across the Miami Valley. Built with automated Bash scripts, cron scheduling, Python Playwright scrapers, Gemini API structured extraction, and Firebase Cloud Firestore.
 
 - **[mcp-virtualbox](https://github.com/danielharderpi-png/mcp-virtualbox)** · *Open-source AI infrastructure bridge.* A Model Context Protocol (MCP) server that gives AI assistants direct access to local VirtualBox environments for VM management, snapshots, and guest OS command execution.
-
   <p align="left">
     <a href="https://m8ven.ai/mcp/danielharderpi-png/mcp-virtualbox?s=readme"><img src="https://m8ven.ai/badge/mcp/danielharderpi-png/mcp-virtualbox" alt="M8ven Score" /></a>
     &nbsp;
@@ -25,14 +24,20 @@ Open to contract builds, pipeline optimization, and technical collaboration.
   </p>
 
 - **[NetBaseline](https://github.com/danielharderpi-png/NetBaseline)** · *Non-destructive network security auditor.* A Python desktop application for auditing local network exposure and generating executive PDF reports. Built with Scapy and CustomTkinter, packaged for Windows with PyInstaller.
-
-  <a href="https://github.com/danielharderpi-png/NetBaseline/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20.exe-0078D4?logo=windows&logoColor=white&style=flat-square" alt="Download NetBaseline for Windows" /></a>
+  <p align="left">
+    <a href="https://github.com/danielharderpi-png/NetBaseline/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20.exe-0078D4?logo=windows&logoColor=white&style=flat-square" alt="Download NetBaseline for Windows" /></a>
+  </p>
 
 - **[Sylb](https://sylb-pn4.pages.dev)** · *Daily syllable puzzle game.* A fast-paced web app built with React and Firebase, packaged as a native Android application.
 
 - **[Project Marceline](https://helloterminalio.com/marceline)** · *Private, local-inference AI assistant.* Designed for offline operation and private document retrieval. Built with Meta Llama 3.2, Unsloth, ChromaDB, and FastAPI.
 
 - **[VanishPoint](https://github.com/danielharderpi-png/VanishPoint)** · *Browser privacy extension.* Enforces Global Privacy Control, automates supported cookie-banner rejections, and reduces unwanted tracking.
+  <p align="left">
+    <a href="https://chromewebstore.google.com/detail/vanishpoint/kdmpicmbpibfpkpiaplpcebflgncmhkd"><img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="Google Chrome" /></a>
+    &nbsp;
+    <a href="https://microsoftedge.microsoft.com/addons"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" /></a>
+  </p>
 
 ---
 
