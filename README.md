@@ -1,12 +1,12 @@
- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Systems%20Developer%20%7C%20Infrastructure%20Automation&descAlignY=51&descAlign=50" />
 </div>
 
 ## ❖ About Me
 
-Systems developer focused on lean data pipelines, network auditing tools, and infrastructure automation. I specialize in Python, Linux environments, and systems integration with a focus on minimal latency and low runtime overhead.
+Systems developer focused on lean data pipelines, network auditing tools, and infrastructure automation. I specialize in Python, Go, Linux environments, and systems integration with a focus on minimal latency and low runtime overhead.
 
-Currently running and maintaining [MV Civic Data](https://mvcivicdata.com), an automated B2B municipal intelligence platform built with Python Playwright scrapers, Gemini API document extraction, Firebase, and Cloudflare.
+Currently running and maintaining [MV Civic Data](https://mvcivicdata.com), an automated B2B municipal intelligence platform built with scheduled GitHub Actions pipelines, Gemini API document extraction, Firebase, Stripe, and Cloudflare.
 
 Open to contract builds, pipeline optimization, and technical collaboration.
 
@@ -14,7 +14,18 @@ Open to contract builds, pipeline optimization, and technical collaboration.
 
 ## ❖ Active Projects & Tools
 
-- **[MV Civic Data](https://mvcivicdata.com)** · *Municipal intelligence SaaS.* A production platform tracking zoning and development activity across the Miami Valley. Built with automated Bash scripts, cron scheduling, Python Playwright scrapers, Gemini API structured extraction, and Firebase Cloud Firestore.
+- **[MV Civic Data](https://mvcivicdata.com)** · *Municipal intelligence SaaS.* A production platform tracking zoning and development activity across the Miami Valley. Built with automated GitHub Actions workflows, Python scrapers, Gemini API structured extraction, Stripe billing, and Firebase Cloud Firestore.
+
+- **[agv-telemetry-pipeline](https://github.com/danielharderpi-png/agv-telemetry-pipeline)** · *Event-driven warehouse robotics telemetry & dispatch.* A real-time ingestion pipeline and 2D spatial control board streaming fleet coordinates, battery telemetry, and fault states at 20 events/sec. Built with a Python fleet simulator, Redpanda (Kafka), a concurrent Go consumer (`pgx/v5` batch persistence + Gorilla WebSockets), and PostgreSQL 16.
+  <p align="left">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Redpanda_/_Kafka-E2231A?style=flat-square&logo=apachekafka&logoColor=white" alt="Redpanda Kafka" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  </p>
 
 - **[mcp-virtualbox](https://github.com/danielharderpi-png/mcp-virtualbox)** · *Open-source AI infrastructure bridge.* A Model Context Protocol (MCP) server that gives AI assistants direct access to local VirtualBox environments for VM management, snapshots, and guest OS command execution.
   <p align="left">
@@ -45,8 +56,12 @@ Open to contract builds, pipeline optimization, and technical collaboration.
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.redpanda.com"><img src="https://img.shields.io/badge/Redpanda_/_Kafka-E2231A?style=flat-square&logo=apachekafka&logoColor=white" alt="Redpanda Kafka" /></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
   <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini API" /></a>
   <a href="https://www.trychroma.com"><img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB" /></a>
@@ -58,6 +73,6 @@ Open to contract builds, pipeline optimization, and technical collaboration.
   <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /></a>
 </p>
 
-- **Languages:** Python, JavaScript, Bash, SQL, HTML/CSS
-- **Tools & Development:** Google Antigravity, MCP, Gemini API, Meta Llama 3.2, FastAPI, ChromaDB
-- **Infrastructure & Cloud:** Linux (Ubuntu Server), VirtualBox, Cloudflare, Firebase, Stripe API
+- **Languages:** Python, Go, JavaScript, Bash, SQL (PostgreSQL), HTML/CSS
+- **Tools & Development:** Google Antigravity, Redpanda / Kafka, WebSockets, MCP, Gemini API, Meta Llama 3.2, FastAPI, ChromaDB
+- **Infrastructure & Cloud:** Docker, Linux (Ubuntu Server), VirtualBox, GitHub Actions, Cloudflare, Firebase, Stripe API
