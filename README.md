@@ -17,16 +17,7 @@ Open to contract builds, pipeline optimization, and technical collaboration.
 - **[MV Civic Data](https://mvcivicdata.com)** · *Municipal intelligence SaaS.* A production platform tracking zoning and development activity across the Miami Valley. Built with automated GitHub Actions workflows, Python scrapers, Gemini API structured extraction, Stripe billing, and Firebase Cloud Firestore.
 
 - **[agv-telemetry-pipeline](https://github.com/danielharderpi-png/agv-telemetry-pipeline)** · *Event-driven warehouse robotics telemetry & dispatch.* A real-time ingestion pipeline and 2D spatial control board streaming fleet coordinates, battery telemetry, and fault states at 20 events/sec. Built with a Python fleet simulator, Redpanda (Kafka), a concurrent Go consumer (`pgx/v5` batch persistence + Gorilla WebSockets), and PostgreSQL 16.
-  <p align="left">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Redpanda_/_Kafka-E2231A?style=flat-square&logo=apachekafka&logoColor=white" alt="Redpanda Kafka" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  </p>
-
+  
 - **[mcp-virtualbox](https://github.com/danielharderpi-png/mcp-virtualbox)** · *Open-source AI infrastructure bridge.* A Model Context Protocol (MCP) server that gives AI assistants direct access to local VirtualBox environments for VM management, snapshots, and guest OS command execution.
   <p align="left">
     <a href="https://m8ven.ai/mcp/danielharderpi-png/mcp-virtualbox?s=readme"><img src="https://m8ven.ai/badge/mcp/danielharderpi-png/mcp-virtualbox" alt="M8ven Score" /></a>
