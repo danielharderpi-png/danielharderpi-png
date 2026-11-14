@@ -46,7 +46,7 @@ Open to contract builds, pipeline optimization, and technical collaboration.
     <a href="https://microsoftedge.microsoft.com/addons"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" /></a>
   </p>
 
-- **[QuizKnight: Card Battler](https://helloterminalio.com/quizknight)** · *16-bit IT certification study deckbuilder.* A turn-based tactical card battler with 151 built-in study cards across CompTIA (A+, Network+, Security+), AWS, and GCP, custom Quizlet/JSON deck imports, and 100% offline local storage, packaged as a native Android application.
+- **[QuizKnight: Card Battler](https://helloterminalio.com/quizknight)** · *16-bit IT certification study deckbuilder.* A turn-based tactical card battler with 151 built-in study cards across CompTIA (A+, Network+, Security+), AWS, and GCP, custom Quizlet/JSON deck imports, and 100% offline local storage, packaged as a native Android application. **PROMO CODES TO BE AVAILABLE SOON, PLEASE WAIT FOR THE PROMO CODES**
   <p align="left">
     <a href="https://groups.google.com/g/quizknight-testers"><img src="https://img.shields.io/badge/Step_1-Join_Tester_Group-4285F4?style=flat-square&logo=google&logoColor=white" alt="1. Join Tester Group" /></a>
     &nbsp;➔&nbsp;
