@@ -46,13 +46,13 @@ Open to contract builds, pipeline optimization, and technical collaboration.
     <a href="https://microsoftedge.microsoft.com/addons"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" /></a>
   </p>
 
-- **[QuizKnight: Card Battler](https://helloterminalio.com/quizknight)** · *16-bit IT certification study deckbuilder.* A turn-based tactical card battler with 151 built-in study cards across CompTIA (A+, Network+, Security+), AWS, and GCP, custom Quizlet/JSON deck imports, and 100% offline local storage, packaged as a native Android application. **PROMO CODES TO BE AVAILABLE SOON, PLEASE WAIT FOR THE PROMO CODES**
+- **[QuizKnight: Card Battler](https://helloterminalio.com/quizknight)** · *16-bit IT certification study deckbuilder.* A turn-based tactical card battler with 151 built-in study cards across CompTIA (A+, Network+, Security+), AWS, and GCP, custom Quizlet/JSON deck imports, and 100% offline local storage, packaged as a native Android application. *(Google Play lists the closed beta at $0.99, grab a 100% off promo code in Step 3 to download for free).*
   <p align="left">
     <a href="https://groups.google.com/g/quizknight-testers"><img src="https://img.shields.io/badge/Step_1-Join_Tester_Group-4285F4?style=flat-square&logo=google&logoColor=white" alt="1. Join Tester Group" /></a>
     &nbsp;➔&nbsp;
-    <a href="https://play.google.com/store/apps/details?id=com.danielharder.quizknight"><img src="https://img.shields.io/badge/Step_2-Android_Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" alt="2A. Download on Google Play" /></a>
-    &nbsp;<b>or</b>&nbsp;
-    <a href="https://play.google.com/apps/testing/com.danielharder.quizknight"><img src="https://img.shields.io/badge/Step_2-Web_Opt--In-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="2B. Become a Tester (Web)" /></a>
+    <a href="https://play.google.com/apps/testing/com.danielharder.quizknight"><img src="https://img.shields.io/badge/Step_2-Opt--In_to_Test-34A853?style=flat-square&logo=google-play&logoColor=white" alt="2. Opt-In to Test" /></a>
+    &nbsp;➔&nbsp;
+    <a href="https://helloterminalio.com/quizknight"><img src="https://img.shields.io/badge/Step_3-Claim_Free_Promo_Code-F59E0B?style=flat-square&logo=itchdotio&logoColor=white" alt="3. Claim Free Promo Code" /></a>
   </p>
 
 ---
