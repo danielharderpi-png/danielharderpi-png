@@ -4,9 +4,9 @@
 
 ## ❖ About Me
 
-Just a vibe-coder turned IDE junkie maxing weekly limits on paid subs lmao.. Praying for the love of God that I get lucky.
+Just a vibe-coder turned IDE junkie maxing weekly limits on paid subs lmao.. I just want to make stuff.
 
-Creator of [MV Civic Data](https://mvcivicdata.com) — open to contract builds and technical collaboration.
+open to contract builds and technical collaboration.
 
 Holla at me on Discord: tastyaortas
 
