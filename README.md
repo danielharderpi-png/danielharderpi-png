@@ -4,7 +4,7 @@
 
 ## ❖ About Me
 
-Systems developer focused on lean data pipelines, network auditing tools, and infrastructure automation. I specialize in Python, Go, TypeScript/Node.js, Linux environments, and systems integration with a focus on minimal latency and low runtime overhead.
+Systems developer making lean, mean pipeline machines, network tools, and automation. Big fan of Python, Go, TypeScript/Node.js, Linux environments, and systems integration with minimal latency and low runtime overhead.
 
 Currently running and maintaining [MV Civic Data](https://mvcivicdata.com), an automated B2B municipal intelligence platform built with scheduled GitHub Actions pipelines, Gemini API document extraction, Firebase, Stripe, and Cloudflare.
 
