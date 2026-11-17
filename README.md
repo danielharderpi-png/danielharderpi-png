@@ -7,7 +7,7 @@
 Just a vibe-coder turned IDE junkie maxing weekly limits on paid subs lmao.. Praying for the love of God that I get lucky.
 Creator of [MV Civic Data](https://mvcivicdata.com) — open to contract builds and technical collaboration.
 
-Holla at me on Discord: <img src="https://img.shields.io/badge/Discord-tastyaortas-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+Holla at me on Discord: tastyaortas
 
 ## ❖ Active Projects & Tools
 
