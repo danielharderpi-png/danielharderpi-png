@@ -1,61 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Systems%20Developer%20%7C%20Infrastructure%20Automation&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20&descAlignY=51&descAlign=50" />
 </div>
 
 ## ❖ About Me
 
-Systems developer making lean, mean pipeline machines, network tools, and automation. Big fan of Python, Go, TypeScript/Node.js, Linux environments, and systems integration with minimal latency and low runtime overhead.
+Just a vibe-coder turned IDE junkie maxing weekly limits on paid subs lmao.. Praying for the love of God that I get lucky.
+Creator of [MV Civic Data](https://mvcivicdata.com) — open to contract builds and technical collaboration.
 
-Currently running and maintaining [MV Civic Data](https://mvcivicdata.com), an automated B2B municipal intelligence platform built with scheduled GitHub Actions pipelines, Gemini API document extraction, Firebase, Stripe, and Cloudflare.
-
-Open to contract builds, pipeline optimization, and technical collaboration.
-
----
+Holla at me on Discord: <img src="https://img.shields.io/badge/Discord-tastyaortas-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 
 ## ❖ Active Projects & Tools
 
-- **[MV Civic Data](https://mvcivicdata.com)** · *Municipal intelligence SaaS.* A production platform tracking zoning and development activity across the Miami Valley. Built with automated GitHub Actions workflows, Python scrapers, Gemini API structured extraction, Stripe billing, and Firebase Cloud Firestore.
-
-- **[CivicLead Engine](https://github.com/danielharderpi-png/civiclead)** · *Local-first B2B lead discovery & plain-text outreach studio.* Discovers target domains, crawls public contact pages with live DNS MX verification (`dns.resolveMx`) and SSRF protection, enriches leads across 3 AI modes ($0.00 manual batch, local Ollama/LM Studio, or BYO API key), and enforces strict `text/plain` deliverability guardrails for RFC 2822 staging. Built with TypeScript, Node.js (`node:sqlite`), Express, and React 19, packaged as a standalone Windows `.exe` via Node SEA.
-  <p align="left">
-    <a href="https://github.com/danielharderpi-png/civiclead/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20.exe-0078D4?logo=windows&logoColor=white&style=flat-square" alt="Download CivicLead for Windows" /></a>
-    &nbsp;
-    <a href="https://helloterminalio.com/civiclead/"><img src="https://img.shields.io/badge/Terminalio-Architecture%20%26%20Docs-10B981?style=flat-square" alt="CivicLead Architecture & Docs" /></a>
-  </p>
-
-- **[agv-telemetry-pipeline](https://github.com/danielharderpi-png/agv-telemetry-pipeline)** · *Event-driven warehouse robotics telemetry & dispatch.* A real-time ingestion pipeline and 2D spatial control board streaming fleet coordinates, battery telemetry, and fault states at 20 events/sec. Built with a Python fleet simulator, Redpanda (Kafka), a concurrent Go consumer (`pgx/v5` batch persistence + Gorilla WebSockets), and PostgreSQL 16.
-
-- **[mcp-virtualbox](https://github.com/danielharderpi-png/mcp-virtualbox)** · *Open-source AI infrastructure bridge.* A Model Context Protocol (MCP) server that gives AI assistants direct access to local VirtualBox environments for VM management, snapshots, and guest OS command execution.
-  <p align="left">
-    <a href="https://m8ven.ai/mcp/danielharderpi-png/mcp-virtualbox?s=readme"><img src="https://m8ven.ai/badge/mcp/danielharderpi-png/mcp-virtualbox" alt="M8ven Score" /></a>
-    &nbsp;
-    <a href="https://www.agensi.io/skills/mcp-virtualbox"><img src="https://img.shields.io/badge/Agensi-View%20Skill-6C5CE7?style=flat-square" alt="View on Agensi" /></a>
-  </p>
-
-- **[NetBaseline](https://github.com/danielharderpi-png/NetBaseline)** · *Non-destructive network security auditor.* A Python desktop application for auditing local network exposure and generating executive PDF reports. Built with Scapy and CustomTkinter, packaged for Windows with PyInstaller.
-  <p align="left">
-    <a href="https://github.com/danielharderpi-png/NetBaseline/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20.exe-0078D4?logo=windows&logoColor=white&style=flat-square" alt="Download NetBaseline for Windows" /></a>
-  </p>
-
-- **[Project Marceline](https://helloterminalio.com/marceline)** · *Private, local-inference AI assistant.* Designed for offline operation and private document retrieval. Built with Meta Llama 3.2, Unsloth, ChromaDB, and FastAPI.
-
-- **[VanishPoint](https://github.com/danielharderpi-png/VanishPoint)** · *Browser privacy extension.* Enforces Global Privacy Control, automates supported cookie-banner rejections, and reduces unwanted tracking.
-  <p align="left">
-    <a href="https://chromewebstore.google.com/detail/vanishpoint/kdmpicmbpibfpkpiaplpcebflgncmhkd"><img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="Google Chrome" /></a>
-    &nbsp;
-    <a href="https://microsoftedge.microsoft.com/addons"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" /></a>
-  </p>
-
-- **[QuizKnight: Card Battler](https://helloterminalio.com/quizknight)** · *16-bit IT certification study deckbuilder.* A turn-based tactical card battler with 151 built-in study cards across CompTIA (A+, Network+, Security+), AWS, and GCP, custom Quizlet/JSON deck imports, and 100% offline local storage, packaged as a native Android application. *(Google Play lists the closed beta at $0.99, grab a 100% off promo code in Step 3 to download for free).*
-  <p align="left">
-    <a href="https://groups.google.com/g/quizknight-testers"><img src="https://img.shields.io/badge/Step_1-Join_Tester_Group-4285F4?style=flat-square&logo=google&logoColor=white" alt="1. Join Tester Group" /></a>
-    &nbsp;➔&nbsp;
-    <a href="https://play.google.com/apps/testing/com.danielharder.quizknight"><img src="https://img.shields.io/badge/Step_2-Opt--In_to_Test-34A853?style=flat-square&logo=google-play&logoColor=white" alt="2. Opt-In to Test" /></a>
-    &nbsp;➔&nbsp;
-    <a href="https://helloterminalio.com/quizknight"><img src="https://img.shields.io/badge/Step_3-Claim_Free_Promo_Code-F59E0B?style=flat-square&logo=itchdotio&logoColor=white" alt="3. Claim Free Promo Code" /></a>
-  </p>
-
----
+* **[MV Civic Data](https://mvcivicdata.com)** · Automated B2B municipal intelligence SaaS (Python, Gemini API, Firestore, Stripe).
+* **[CivicLead Engine](https://github.com/danielharderpi-png/civiclead)** · Local-first B2B lead discovery & plain-text outreach studio ([Windows .exe](https://github.com/danielharderpi-png/civiclead/releases/latest) · [Docs](https://helloterminalio.com/civiclead)).
+* **[Blackbox](https://github.com/danielharderpi-png/blackbox)** · Go CLI flight recorder for AI coding agents and repo baseline verification.
+* **[agv-telemetry-pipeline](https://github.com/danielharderpi-png/agv-telemetry-pipeline)** · Real-time warehouse robotics ingestion & WebSocket dispatch (Go, Redpanda, PostgreSQL).
+* **[mcp-virtualbox](https://github.com/danielharderpi-png/mcp-virtualbox)** · MCP server giving AI assistants execution access to local VirtualBox VMs.
+* **[NetBaseline](https://github.com/danielharderpi-png/NetBaseline)** · Non-destructive Python/Scapy network security auditor ([Windows .exe](https://github.com/danielharderpi-png/NetBaseline/releases/latest)).
+* **[Project Marceline](https://github.com/danielharderpi-png/Marceline)** · Air-gapped local RAG assistant (Llama 3.2, Unsloth, ChromaDB, FastAPI).
+* **[VanishPoint](https://github.com/danielharderpi-png/VanishPoint)** · Zero-config privacy extension ([Chrome](https://chromewebstore.google.com/detail/vanishpoint/...) · [Edge](https://microsoftedge.microsoft.com/addons/detail/vanishpoint/...)).
+* **[QuizKnight: Card Battler](https://helloterminalio.com/quizknight)** · 16-bit Android IT certification study deckbuilder.
 
 ## ❖ Stack & Environment
 
@@ -80,7 +44,3 @@ Open to contract builds, pipeline optimization, and technical collaboration.
   <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /></a>
   <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /></a>
 </p>
-
-- **Languages:** Python, Go, TypeScript, JavaScript (Node.js), Bash, SQL (PostgreSQL, SQLite), HTML/CSS
-- **Tools & Development:** Google Antigravity, Redpanda / Kafka, React 19, Express, WebSockets, MCP, Gemini API, Local LLMs (Ollama / Meta Llama 3.2), FastAPI, ChromaDB
-- **Infrastructure & Cloud:** Docker, Linux (Ubuntu Server), VirtualBox, GitHub Actions, Node SEA, Cloudflare, Firebase, Stripe API
