@@ -1,6 +1,6 @@
 ## ❖ About Me
 
-Just a vibe-coder turned IDE junkie maxing weekly limits on paid subs lmao.. I just want to make stuff.
+IDE junkie maxing weekly limits on paid subs. I just want to make stuff.
 
 open to contract builds and technical collaboration.
 
