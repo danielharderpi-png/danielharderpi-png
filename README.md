@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Daniel%20Harder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20&descAlignY=51&descAlign=50" />
-</div>
-
 ## ❖ About Me
 
 Just a vibe-coder turned IDE junkie maxing weekly limits on paid subs lmao.. I just want to make stuff.
