@@ -4,7 +4,7 @@ Just a vibe-coder turned IDE junkie maxing weekly limits on paid subs lmao.. I j
 
 open to contract builds and technical collaboration.
 
-Holla at me on Discord: tastyaortas
+Holla at me on Discord: [tastyaortas](https://discord.com/users/1140154648276258856)
 
 ## ❖ Active Projects & Tools
 
