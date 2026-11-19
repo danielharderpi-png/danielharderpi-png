@@ -1,6 +1,6 @@
 ## ❖ About Me
 
-IDE junkie maxing weekly limits on paid subs. Don't LeetCode me or ask me to whiteboard syntax, but I can walk you through every step of how my software was built, every wall I hit, and how I fixed it.
+I'm more interested in building things that actually work than proving I can memorize syntax. I've been using AI assisted tools to speed up development, but the architecture, testing, troubleshooting, and final decisions are still on me. You HAVE to, or your cloud billing can get wild lol.
 
 I've got the bandwidth for contract builds and technical collabs.
 
