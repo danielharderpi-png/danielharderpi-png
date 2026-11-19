@@ -1,6 +1,6 @@
 ## ❖ About Me
 
-I'm more interested in building things that actually work than proving I can memorize syntax. I've been using AI assisted tools to speed up development, but the architecture, testing, troubleshooting, and final decisions are still on me. You HAVE to, or your cloud billing can get wild lol.
+I'm more interested in building things that actually work than memorizing syntax. I've been using AI assisted tools to speed up development, but the architecture, testing, troubleshooting, and final decisions are still on me. You HAVE to, or your cloud billing can get wild lol.
 
 I've got the bandwidth for contract builds and technical collabs.
 
