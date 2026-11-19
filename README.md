@@ -2,7 +2,7 @@
 
 IDE junkie maxing weekly limits on paid subs. I just want to make stuff.
 
-open to contract builds and technical collaboration.
+I frequently have free time so I'm open to contract builds and technical collaboration.
 
 Holla at me on Discord: [tastyaortas](https://discord.com/users/1140154648276258856)
 
