@@ -1,8 +1,8 @@
 ## ❖ About Me
 
-IDE junkie maxing weekly limits on paid subs. I just want to make stuff.
+IDE junkie maxing weekly limits on paid subs. Don't LeetCode me or ask me to whiteboard syntax, but I can walk you through every step of how my software was built, every wall I hit, and how I fixed it.
 
-I frequently have free time so I'm open to contract builds and technical collaboration.
+I've got the bandwidth for contract builds and technical collabs.
 
 Holla at me on Discord: [tastyaortas](https://discord.com/users/1140154648276258856)
 
